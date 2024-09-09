@@ -1,0 +1,8 @@
+body {
+    color: silver;
+    background: rgb(11, 108, 102);
+} 
+
+header {
+    border-bottom: solid 2px silver;
+}
